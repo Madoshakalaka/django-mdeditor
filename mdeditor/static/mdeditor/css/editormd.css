@@ -534,7 +534,7 @@
 .editormd-form label {
   float: left;
   display: block;
-  width: 75px;
+  width: 75px!important;
   text-align: left;
   padding: 7px 0 15px 5px;
   margin: 0 0 2px;
